@@ -205,7 +205,7 @@
 
 #### Q31. Which section of a financial annual report describes the corporation's accounting methods?
 
-- [ ] Notes to the financial statements
+- [x] Notes to the financial statements
 - [ ] An auditor's report
 - [ ] Listing of the stockholders
 - [ ] Management discussion and analysis
